@@ -1,6 +1,5 @@
-<div align="senter"> 
-  # [오픈소스 SW개론] 
-</div>
+# 오픈소스 SW개론
+
 <div align="right"> 
   by. 조선대학교 IT융합대학 컴퓨터공학과 __20205078 김연희__
 </div>
